@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\EMBLABS\l3timer\timertest\timertest\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/MicroChipStu\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\MicroChipStu\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/MicroChipStu\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\EMBLABS\l3timer\timertest\timertest\Debug\timertest.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>timertest.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>timertest.map</FILE>
+  <FILE>timertest.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</FILE><LINE>54</LINE></start>
+  <delay_100us_TC0><FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</FILE><LINE>71</LINE></delay_100us_TC0>
+  <delay_long><FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</FILE><LINE>96</LINE></delay_long>
+  <delay><FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</FILE><LINE>65</LINE></delay>
+  <wait><FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</FILE><LINE>87</LINE></wait>
+  <delay_oms><FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</FILE><LINE>102</LINE></delay_oms>
+  <oms_loop><FILE>D:\EMBLABS\l3timer\timertest\timertest\main.asm</FILE><LINE>105</LINE></oms_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
